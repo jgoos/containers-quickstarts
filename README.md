@@ -93,16 +93,40 @@ To enable actions in your fork:
 
 ## Related Content
 
-* [Container Pipelines](https://github.com/redhat-cop/container-pipelines) - A set of Jenkins piplines for OpenShift
-* [Labs CI/CD](https://github.com/rht-labs/labs-ci-cd) - A comprehensive end to end pipeline using many modern testing and quality tools. Suitable for OpenShift v3.x
+* [Container Pipelines](https://github.com/redhat-cop/container-pipelines) - A set of Jenkins pipelines for OpenShift
 * [Labs Ubiquitous Journey](https://github.com/rht-labs/ubiquitous-journey) - (The New and Improved _Labs CI/CD_ using GitOps for OpenShift v4.x) A collection of ArgoCD apps for:
-  *  Boostrapping a cluster with some projects, roles, bindings and creating an ArgoCD instance using the Operator
-  *  Deployments for an end to end pipeline using many modern testing and quality tools such as Jenkins, Nexus, Sonarqube etc
+  *  Bootstrapping a cluster with some projects, roles, bindings and creating an ArgoCD instance using the Operator
+  *  Deployments for an end-to-end pipeline using many modern testing and quality tools such as Jenkins, Nexus, Sonarqube, etc.
   *  Project management tooling such as Wekan and Mattermost Chat
-* [Labs Helm Charts](https://github.com/rht-labs/helm-charts) - A library of OpenShift ready Helm3 Charts
-* [OpenShift Templates](https://github.com/rht-labs/openshift-templates) - A library of OpenShift template examples & references
+* [Labs Helm Charts](https://github.com/redhat-cop/helm-charts) - A library of OpenShift ready Helm3 Charts
+* [OpenShift Templates](https://github.com/redhat-cop/openshift-templates) - A library of OpenShift template examples & references
 * [OpenShift Applier](https://github.com/redhat-cop/openshift-applier) - An automation framework for keeping manifests and templates applied to a cluster
+* [No longer maintained - Labs CI/CD](https://github.com/rht-labs/labs-ci-cd) - A comprehensive end-to-end pipeline using many modern testing and quality tools. Suitable for OpenShift v3.x
 
 ## Contributing
 
 Checkout out our [contribution guide](./CONTRIBUTING.md) for more details on how to contribute content to this repo.
+
+## No longer maintained
+[build-docker-generic](build-docker-generic)
+[build-s2i-executable](build-s2i-executable)
+[build-s2i-gows](build-s2i-gows)
+[build-s2i-jekyll](build-s2i-jekyll)
+[build-s2i-liberty](build-s2i-liberty)
+[cert-manager-configs](cert-manager-configs)
+[deprecated](deprecated)
+[github-runner-ubi8](github-runner-ubi8)
+[gitlab-ce](gitlab-ce)
+[gogs](gogs)
+[hoverfly](hoverfly)
+[hygieia](hygieia)
+[ipa-server](ipa-server)
+[jenkins-masters](jenkins-masters)
+[mongodb](mongodb)
+[ocp4-logging](ocp4-logging)
+[rabbitmq](rabbitmq)
+[s2i-mvn-gradle](s2i-mvn-gradle)
+[sonarqube](sonarqube)
+[tower-ocp-custom](tower-ocp-custom)
+[ubi7-gitlab-runner](ubi7-gitlab-runner)
+[zalenium](zalenium)
